@@ -1,4 +1,4 @@
-hubsync
-=======
+groovy-stuff
+============
 
-example git hub synchroniser in groovy
+Github test synchronisation script written in groovy
